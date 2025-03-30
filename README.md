@@ -21,7 +21,7 @@ timeflake = "0.1.0"
 
 or
 
-```toml
+```bash
 cargo add timeflake
 ```
 
